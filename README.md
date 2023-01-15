@@ -1,6 +1,6 @@
 # Projects
 
-- These are some of my Data Analyis projects.
+- These are some of my Data Analysis projects.
 
 - 🐦 CryptoTwitterSentimentAnalysis - this a sentiment analysis of cryptocurrency tweets from the first of January 2022 until today - I created visualisations that conveyed the polarity of tweets and some word clouds. 
 
